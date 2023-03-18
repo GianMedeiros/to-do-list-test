@@ -1,0 +1,10 @@
+.SayMyName__conteiner {
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.SayMyName__text {
+    color: white;
+    background-color: grey;
+    margin: 0;
+}
